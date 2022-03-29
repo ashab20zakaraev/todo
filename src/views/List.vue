@@ -1,7 +1,6 @@
 <template>
   <div>
     <h1>Список задач</h1>
-    <h2>Who!</h2>
 
     <div class="input__select">
       <select ref="select" v-model="filter">
