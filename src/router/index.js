@@ -3,7 +3,7 @@ import Create from '../views/Create.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/create',
     name: 'Create',
     component: Create
   },

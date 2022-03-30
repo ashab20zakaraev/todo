@@ -6,7 +6,7 @@
       <ul id="nav-mobile" class="right hide-on-med-and-down">
 
         <li>
-          <router-link to="/">Создать задачу</router-link>
+          <router-link to="/create">Создать задачу</router-link>
         </li>
 
         <li>
